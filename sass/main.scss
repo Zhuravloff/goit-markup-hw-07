@@ -1,4 +1,16 @@
-@import "./utils/vars";
+@import "./utils/variables";
 @import "./utils/placeholder";
 
+@import "./base/common";
 @import "./base/hidden";
+@import "./base/reset";
+@import "./base/conteiner";
+@import "./base/section";
+@import "./base/card-set";
+
+@import "./layout/header";
+@import "./layout/main-nav";
+@import "./layout/hero";
+
+@import "./components/button";
+@import "./components/logo";
