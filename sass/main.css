@@ -168,7 +168,7 @@ img {
   color: var(--accent-color);
 }
 
-.site-nav {
+/* .site-nav {
   display: flex;
 }
 
@@ -213,7 +213,7 @@ img {
   bottom: -2px;
   background: var(--accent-color);
   border-radius: 2px;
-}
+} */
 
 .contact-nav__link {
   display: flex;
